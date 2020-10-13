@@ -1,0 +1,11 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/section1-4
+/section2
+/section5
+/section6
+/section7
+/section8
+/section9/services-start
+/section32typescript
